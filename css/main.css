@@ -123,7 +123,17 @@ float:left;
 	//margin-left:5%;
 }
 
+.text__h1{
+	color:red;
+}
+
 .text__h2{
 	color:black;
+}
+
+.text__h3{
+	color:green;
+
+
 }
 
